@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Work+Sans:wght@500;600&display=swap');
+body{
+	margin:0px;
+}
+div{
+	width:80%;
+	height:400px;
+	background-image:linear-gradient( to top, purple ,skyblue);
+	margin-left:130px;
+}
+div h1{
+	text-align:center;
+	padding:10px;
+	color:#fff;
+	font-family: 'Handlee', cursive;
+	font-size:50px;
+	text-shadow:0px 0px 12px #000;
+}
+div h1 span{
+	margin-top:30px;
+}
